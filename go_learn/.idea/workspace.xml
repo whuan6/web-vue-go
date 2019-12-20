@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d458e652-dc57-4b8b-8887-471bee75022c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1UvCZkEb4YB2wugjwBxpH99Y449" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build go_learn" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go_learn" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="go_learn" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build go_learn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576238773627">
+      <screen x="51" y="23" width="1629" height="1027" />
+    </state>
+    <state x="465" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/51.23.1629.1027@51.23.1629.1027" timestamp="1576238773627" />
+    <state width="1587" height="410" key="GridCell.Tab.0.bottom" timestamp="1576266328215">
+      <screen x="51" y="23" width="1629" height="1027" />
+    </state>
+    <state width="1587" height="410" key="GridCell.Tab.0.bottom/51.23.1629.1027@51.23.1629.1027" timestamp="1576266328215" />
+    <state width="1587" height="410" key="GridCell.Tab.0.center" timestamp="1576266328215">
+      <screen x="51" y="23" width="1629" height="1027" />
+    </state>
+    <state width="1587" height="410" key="GridCell.Tab.0.center/51.23.1629.1027@51.23.1629.1027" timestamp="1576266328215" />
+    <state width="1587" height="410" key="GridCell.Tab.0.left" timestamp="1576266328214">
+      <screen x="51" y="23" width="1629" height="1027" />
+    </state>
+    <state width="1587" height="410" key="GridCell.Tab.0.left/51.23.1629.1027@51.23.1629.1027" timestamp="1576266328214" />
+    <state width="1587" height="410" key="GridCell.Tab.0.right" timestamp="1576266328215">
+      <screen x="51" y="23" width="1629" height="1027" />
+    </state>
+    <state width="1587" height="410" key="GridCell.Tab.0.right/51.23.1629.1027@51.23.1629.1027" timestamp="1576266328215" />
+    <state width="239" height="457" key="HiddenNamespacesPopup" timestamp="1576265478560">
+      <screen x="51" y="23" width="1629" height="1027" />
+    </state>
+    <state width="239" height="457" key="HiddenNamespacesPopup/51.23.1629.1027@51.23.1629.1027" timestamp="1576265478560" />
+    <state x="367" y="175" key="SettingsEditor" timestamp="1576231300773">
+      <screen x="51" y="23" width="1629" height="1027" />
+    </state>
+    <state x="367" y="175" key="SettingsEditor/51.23.1629.1027@51.23.1629.1027" timestamp="1576231300773" />
+  </component>
+</project>
