@@ -21,7 +21,7 @@ npm install
 
 ```
 # Go backend
-# Start GO server at :8081
+# Start GO server at:8081
 cd go_learn
 go build
 ./go_learn
